@@ -1,0 +1,2 @@
+gcc -o dns dns.c
+# do not save as /tau/cmd/dns
